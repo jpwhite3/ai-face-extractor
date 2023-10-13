@@ -1,5 +1,5 @@
 # ai-face-extractor
-A command line program that detects faces in photos and makes thumbnail groups of each unique face
+A command line program that detects faces in photos and makes thumbnail groups of each unique face. This can be helpful when gathering photos for Stable Diffusion model training.
 
 # Setup
 
